@@ -8,6 +8,6 @@
 
 #### Follow
 
-[Twitter](https://twitter.com/Mfucho)
+[Twitter](https://twitter.com/fuchodeveloper)
 
-[Portfolio](https://fmgbeoma.github.io)
+[Portfolio](https://fuchodeveloper.github.io)
