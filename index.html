@@ -414,6 +414,7 @@
         jQuery(function($) {
             $("#rss-feed").rss("http://codeisbae.tech/feeds/posts/default?alt=rss",
                 {
+                    // TODO: Consider making blog snippets available across all devices viewed
                     layoutTemplate: "<div class='feed-container'>{entries}</div>",
 
                     entryTemplate: '<p><br><a href="{url}">{title}</a></p><span>{shortBodyPlain}</span>'
